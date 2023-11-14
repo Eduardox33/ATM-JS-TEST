@@ -1,0 +1,160 @@
+body{
+    background-image: url("fondo.jpeg");
+    background-size: cover;
+}
+p{
+    font-family: monospace;
+    color: rgb(15, 235, 15);
+    font-size: 20px;
+}
+t{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(255, 255, 255, 0.801);
+}
+#test{
+    margin: auto;
+    width: 10ch;
+    overflow: hidden;
+}
+#Borde{
+    border-radius: 5%;
+    padding: 1px;
+    width: 600px;
+    height: 600px;
+    background-image: url("metal.jpg");
+    background-color: grey;
+    background-size: cover;
+    margin: auto;
+    text-align: center;
+}
+.Pantalla{
+    width: 500px;
+    height: 533px;
+    background-color: rgba(0, 0, 0, 0.87);
+    margin: 0 auto;
+    text-align: center;
+}
+#Ptexto{
+    height: 376px;
+}
+.Teclado{
+    border-radius: 7%;
+    padding: 30px;
+    color: white;
+    width: 510px;
+    background-image: url("plastico.jpg");
+    background-size: cover;
+    margin: auto;
+    text-align: center;
+}
+
+#b1{
+    background-image: url(tecla1.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+
+#b2{
+    background-image: url(tecla2.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b3{
+    background-image: url(tecla3.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b4{
+    background-image: url(tecla4.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b5{
+    background-image: url(tecla5.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b6{
+    background-image: url(tecla6.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b7{
+    background-image: url(tecla7.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+
+#b8{
+    background-image: url(tecla8.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b9{
+    background-image: url(tecla9.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#back{
+    background-image: url(tecladel.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#b0{
+    background-image: url(tecla0.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
+#enter{
+    background-image: url(teclaenter.png);
+    background-size: cover;
+    border-radius: 15%;
+    margin: 2px;
+    font-size: 30px;
+    height: 60px;
+    width: 90px;
+}
